@@ -4,6 +4,23 @@
 
 ---
 
+## 🌐 Live Demo
+
+**GitHub Pages:** https://saharfatimadevjani.github.io/JinnahNew/
+
+---
+
+## 📄 Pages
+
+- `index.html` – Home page
+- `AboutMaju.html` – About the university
+- `csdep.html` – Computer Science department
+- `objectives.html` – Objectives
+- `online.html` – Online resources
+- `contactus.html` – Contact us
+
+---
+
 ## 🛠️ Installation & Setup Guide
 
 ### 1. Clone the Repository
